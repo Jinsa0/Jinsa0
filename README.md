@@ -31,12 +31,10 @@ I build practical web apps with Python and Django, with a focus on realtime feat
 - Social Network — a Django social networking app with realtime features (WebSockets). Deployed on Render and actively maintained.
   - Repo: [Rokit8481/social-network](https://github.com/Rokit8481/social-network)  
   - Live: [https://social-network-kddy.onrender.com](https://social-network-kddy.onrender.com)  
-  - Language composition: Python 48.9%, HTML 31.2%, JavaScript 15.4%, CSS 4.5%
 
 - Task Tracker — my earlier task management app; a simple system to create, edit, delete, and comment on tasks with statuses, priorities, and due dates. I started this as an entry project to learn full-stack flows.
   - Repo: [Rokit8481/tasktracker](https://github.com/Rokit8481/tasktracker)  
   - Description: Система управління завданнями, яка дозволяє користувачам створювати, редагувати, видаляти та коментувати завдання. Завдання можуть мати різні статуси, пріоритети та терміни виконання.  
-  - Language composition: HTML 47.1%, Python 40.8%, CSS 8.5%, JavaScript 3.4%, Other 0.2%
 
 ---
 
