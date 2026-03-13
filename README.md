@@ -3,8 +3,8 @@
 Junior Full‑Stack Python‑Django Developer • he/him  
 Programmatic, fast‑thinking, and curious about everything.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rokit8481&layout=compact&theme=tokyonight)](https://github.com/Rokit8481)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rokit8481&show_icons=true&theme=tokyonight)](https://github.com/Rokit8481)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsa0&layout=compact&theme=tokyonight)](https://github.com/Jinsa0)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinsa0&show_icons=true&theme=tokyonight)](https://github.com/Jinsa0)
 
 ---
 
@@ -29,11 +29,11 @@ I build practical web apps with Python and Django, with a focus on realtime feat
 ## Featured projects
 
 - Social Network — a Django social networking app with realtime features (WebSockets). Deployed on Render and actively maintained.
-  - Repo: [Rokit8481/social-network](https://github.com/Rokit8481/social-network)  
+  - Repo: [Jinsa0/social-network](https://github.com/Jinsa0/social-network)  
   - Live: [https://social-network-kddy.onrender.com](https://social-network-kddy.onrender.com)  
 
 - Task Tracker — my earlier task management app; a simple system to create, edit, delete, and comment on tasks with statuses, priorities, and due dates. I started this as an entry project to learn full-stack flows.
-  - Repo: [Rokit8481/tasktracker](https://github.com/Rokit8481/tasktracker)  
+  - Repo: [Jinsa0/tasktracker](https://github.com/Jinsa0/tasktracker)  
   - Description: Система управління завданнями, яка дозволяє користувачам створювати, редагувати, видаляти та коментувати завдання. Завдання можуть мати різні статуси, пріоритети та терміни виконання.  
 
 ---
@@ -41,16 +41,16 @@ I build practical web apps with Python and Django, with a focus on realtime feat
 ## Screenshots
 
 - Task Tracker (main page view)  
-  ![Task Tracker board screenshot](https://github.com/Rokit8481/tasktracker/blob/main/screenshots/tasktracker_main.png)
+  ![Task Tracker board screenshot](https://github.com/Jinsa0/tasktracker/blob/main/screenshots/tasktracker_main.png)
 
 - Social Network — main page (posts, stats, widgets)  
-  ![Social Network feed screenshot](https://github.com/Rokit8481/tasktracker/blob/main/screenshots/socialnetwork_main.png)
+  ![Social Network feed screenshot](https://github.com/Jinsa0/tasktracker/blob/main/screenshots/socialnetwork_main.png)
 
 - Social Network — Messenger (realtime chats)  
-  ![Social Network chat screenshot](https://github.com/Rokit8481/tasktracker/blob/main/screenshots/socialnetwork_messenger.png)
+  ![Social Network chat screenshot](https://github.com/Jinsa0/tasktracker/blob/main/screenshots/socialnetwork_messenger.png)
 
 ---
 
 ## Contact
 - Email: romankits08@gmail.com  
-- GitHub: [Rokit8481](https://github.com/Rokit8481)
+- GitHub: [Jinsa0](https://github.com/Jinsa0)
